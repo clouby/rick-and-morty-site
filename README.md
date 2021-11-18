@@ -1,2 +1,2 @@
 <!-- Title -->
-# Rick and Morty App
+# Rick and Morty Site
